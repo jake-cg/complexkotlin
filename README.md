@@ -57,8 +57,6 @@ In the third section, you are to create an enum class called `Philosopher`. This
 
 (By the way, I will give a bonus point to anyone who can find out who Seneca the Younger was, an additional point if you can tell me which school of philosophy he is commonly associated with, and a third point if you can summarize that school of philosophy in a single sentence. On another note, when you have some time to kill, play "The Wikipedia Game"--pick any random subject on Wikipedia, and click the first link on that page. On the page that comes up, click the first link on that page. Continue doing this until you have reached the Wikipedia page on Philosophy, and marvel at how everything in human existence essentially traces its roots back to philosophy and a bunch of dead Greeks in togas.)
 
-In the fourth section, create a class called `Command` that can be used as a function. This means you will need to provide a `invoke` method on the class. The primary constructor should take a String parameter (`prompt`), and the `invoke` operator should also take a String parameter (`message`), and simply return a concatenation of the two. 
+In the fourth section, create a class called `Command` that can be used as a function. This means you will need to provide a `invoke` method on the class. The primary constructor should take a String parameter (`prompt`), and the `invoke` operator should also take a String parameter (`message`), and simply return a concatenation of the two.
 
 As with the previous assignment, 5 points if all the tests pass, and 0 points if any of them fail. Where this README appears to disagree with the code, follow the code, but do not change the tests.
-
-
